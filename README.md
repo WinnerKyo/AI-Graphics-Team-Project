@@ -49,4 +49,5 @@
 
 ## 참고문헌 및 자료
  
-- 추가 예정
+- https://blog.naver.com/zencstory/222638727680 [네이버 블로그]
+- https://090k.tistory.com/140 [티스토리]
