@@ -41,6 +41,8 @@
 
 - 인식 된 사물에 그래픽 효과를 적용시킴으로서 다양한 사진들을 제작할 수 있고,<br/> 요즘 급부상중인 디자인 표지에 활용 될 수 있다.
 
+![FDQDQER](https://user-images.githubusercontent.com/102790527/169730044-7e39d32c-177c-4465-8d01-c130da664220.PNG)
+
 ## 수행일정
 
 ![dfdfd](https://user-images.githubusercontent.com/102790527/169727690-d3708314-e308-4a5f-8ce8-d454aeb6b7b0.PNG)
