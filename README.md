@@ -42,10 +42,16 @@
 #### 예상 결과물
 
 - COCOSSD 머신러닝 라이브러리를 활용하여 사진 속 객체를 인식하고 <br/> 인식 된 객체에 다양한 필터, 워터마크 적용 및 이미지 추출까지 할 수 있다.
+<br/>
 
+![image](https://user-images.githubusercontent.com/102790527/172206475-b0e6d312-33e9-4923-abf3-f0c82f5dc25b.png)
+
+필터를 적용 시킨 후 각 객체들을 추출
+<br/>
 
 ![image](https://user-images.githubusercontent.com/102790527/172205955-43777c54-a27f-4d88-b736-2b0714e94a4b.png)
 
+필터와 워터마크를 적용시킨 전체 이미지 추출
 
 #### 기도효과 및 활용방안
 
