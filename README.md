@@ -67,9 +67,25 @@
 
 ## 참고문헌 및 자료
  
+ 참고자료
+ 
 - https://blog.naver.com/zencstory/222638727680 [네이버 블로그] <br/>
 ( 디자인 표지 활용 )
 <br/>
 
 - https://090k.tistory.com/140 [티스토리] <br/>
 ( 머신러닝을 활용한 얼굴 인식 )
+
+참고문헌
+
+[1] Wikidocs "Object Detector"(December 7, 2020)
+
+https://wikidocs.net/103943
+
+[2] MK, ORP 연구소 "ORP Research Institute Launches 'ACT' Based on Machine Learning"(January 27, 2022)
+
+https://www.mk.co.kr/news/economy/view/2022/01/83966/
+
+[3] p5.js, reference “filter()”(June 6, 2022) 
+
+https://p5js.org/ko/reference/#/p5.Image/filter
